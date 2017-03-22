@@ -1,18 +1,7 @@
-# Module 0: Welcome to the course!
+# Welcome to the course!
 
-## Overview
-Welcome to INFO-201, Technical Foundations of Informatics.  This is a course at the University of Washington's [Information School](https://ischool.uw.edu/), and these materials were developed by [Michael Freeman](http://mfviz.com/#/).  The purpose of this course is to teach students the necessary technical skills to begin writing code to work with data.  While these resources are built for students currently enrolled in the course, they have been structured to be an online resource for anyone hoping to learn to work with information using programmatic approaches.  
+Welcome to INFO-201, Technical Foundations of Informatics.  This is a course at the University of Washington's [Information School](https://ischool.uw.edu/), and these materials were co-developed by [Michael Freeman](http://mfviz.com/#/) and [Joel Ross](http://faculty.washington.edu/joelross/).  The purpose of this course is to teach students the necessary technical skills to begin writing code to work with data.  While these resources are built for students currently enrolled in the course, they have been structured to be an online resource for anyone hoping to learn to work with information using programmatic approaches.  
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Contents**
-
-- [Expectations](#expectations)
-- [Organization](#organization)
-- [Contributing](#contributing)
-- [Course Links](#course-links)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Expectations
 Given the ever-changing nature of the coding world, students will be responsible for independent learning, both in terms of managing their own pace, and seeking out new skills. These modules have been designed to provide an overview of core concepts necessary for success in the course.
@@ -27,7 +16,7 @@ This organization has a separate repository for each learning module.  Each modu
 
 All exercises provide an instructional template, as well as the completed version of the exercise. More specifically, each learning module with exercises has both `master` and `complete` branches (more on this later). To view the `complete` branch on GitHub, you can easily use the UI to change branches:
 
-![change-branch](imgs/change-branch.png)
+![change-branch](m1-imgs/change-branch.png)
 
 You can also access the code on your computer by checking out the branch via your terminal (more on this in [module-3](https://github.com/info-201/m3-git-intro)):
 
