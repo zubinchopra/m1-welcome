@@ -1,4 +1,4 @@
-# Welcome to the course!
+# Welcome to the course!!!
 
 Welcome to INFO-201, Technical Foundations of Informatics.  This is a course at the University of Washington's [Information School](https://ischool.uw.edu/), and these materials were co-developed by [Michael Freeman](http://mfviz.com/#/) and [Joel Ross](http://faculty.washington.edu/joelross/).  The purpose of this course is to teach students the necessary technical skills to begin writing code to work with data.  While these resources are built for students currently enrolled in the course, they have been structured to be an online resource for anyone hoping to learn to work with information using programmatic approaches.  
 
